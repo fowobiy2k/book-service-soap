@@ -1,0 +1,17 @@
+/home/oluwatosin/code/java/maven/intellij-projects/book-service/src/main/java/com/fowobi/spring/soap/api/bookservice/Book.java
+/home/oluwatosin/code/java/maven/intellij-projects/book-service/src/main/java/com/fowobi/spring/soap/api/bookservice/GetBooksRequestResponse.java
+/home/oluwatosin/code/java/maven/intellij-projects/book-service/src/main/java/com/fowobi/spring/soap/api/bookservice/ObjectFactory.java
+/home/oluwatosin/code/java/maven/intellij-projects/book-service/src/main/java/com/soap/service/App.java
+/home/oluwatosin/code/java/maven/intellij-projects/book-service/src/main/java/com/fowobi/spring/soap/api/bookservice/GetBookByIdRequestResponse.java
+/home/oluwatosin/code/java/maven/intellij-projects/book-service/src/main/java/com/soap/service/services/BookService.java
+/home/oluwatosin/code/java/maven/intellij-projects/book-service/src/main/java/com/fowobi/spring/soap/api/bookservice/CreateBookRequest.java
+/home/oluwatosin/code/java/maven/intellij-projects/book-service/src/main/java/com/soap/service/model/Book.java
+/home/oluwatosin/code/java/maven/intellij-projects/book-service/src/main/java/com/soap/service/endpoint/Endpoint.java
+/home/oluwatosin/code/java/maven/intellij-projects/book-service/src/main/java/com/fowobi/spring/soap/api/bookservice/GetBookByIdResponse.java
+/home/oluwatosin/code/java/maven/intellij-projects/book-service/src/main/java/com/fowobi/spring/soap/api/bookservice/GetBooksRequest.java
+/home/oluwatosin/code/java/maven/intellij-projects/book-service/src/main/java/com/soap/service/repository/BookRepository.java
+/home/oluwatosin/code/java/maven/intellij-projects/book-service/src/main/java/com/fowobi/spring/soap/api/bookservice/GetBookByIdRequest.java
+/home/oluwatosin/code/java/maven/intellij-projects/book-service/src/main/java/com/soap/service/config/Config.java
+/home/oluwatosin/code/java/maven/intellij-projects/book-service/src/main/java/com/fowobi/spring/soap/api/bookservice/CreateBookResponse.java
+/home/oluwatosin/code/java/maven/intellij-projects/book-service/src/main/java/com/fowobi/spring/soap/api/bookservice/GetBooksResponse.java
+/home/oluwatosin/code/java/maven/intellij-projects/book-service/src/main/java/com/fowobi/spring/soap/api/bookservice/package-info.java

@@ -1,0 +1,17 @@
+com/soap/service/services/BookService.class
+com/fowobi/spring/soap/api/bookservice/GetBooksResponse.class
+com/fowobi/spring/soap/api/bookservice/CreateBookResponse.class
+com/soap/service/model/Book.class
+com/fowobi/spring/soap/api/bookservice/GetBooksRequest.class
+com/fowobi/spring/soap/api/bookservice/GetBookByIdRequestResponse.class
+com/fowobi/spring/soap/api/bookservice/GetBooksRequestResponse.class
+com/soap/service/endpoint/Endpoint.class
+com/fowobi/spring/soap/api/bookservice/package-info.class
+com/fowobi/spring/soap/api/bookservice/ObjectFactory.class
+com/fowobi/spring/soap/api/bookservice/Book.class
+com/soap/service/config/Config.class
+com/soap/service/App.class
+com/fowobi/spring/soap/api/bookservice/GetBookByIdRequest.class
+com/soap/service/repository/BookRepository.class
+com/fowobi/spring/soap/api/bookservice/GetBookByIdResponse.class
+com/fowobi/spring/soap/api/bookservice/CreateBookRequest.class
